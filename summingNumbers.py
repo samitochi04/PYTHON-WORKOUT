@@ -1,8 +1,7 @@
 def summing(*args):
     sums = 0
-    list_of_nums = [args]
     
-    for element in list_of_nums:
+    for element in args:
         sums += element
     
     print(sums)
