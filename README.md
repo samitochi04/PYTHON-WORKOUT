@@ -1,2 +1,2 @@
 # PYTHON-WORKOUT
-Summing program
+50 Python Exercises
